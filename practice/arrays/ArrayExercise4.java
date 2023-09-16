@@ -21,8 +21,7 @@ public class ArrayExercise4 {
         for(int i=0; i< arr.length; i++){
 
             if(arr[i] == arr[cleanIndex]){
-                cleanIndex++;
-                arr[]
+
             }
 
         }
