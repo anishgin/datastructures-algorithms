@@ -16,14 +16,9 @@ public class ArrayExercise4 {
         int arr[] = new int[]{1, 1, 2};
         System.out.println("The unique Array  is ");
 
-        int cleanIndex =1;
 
-        for(int i=0; i< arr.length; i++){
 
-            if(arr[i] == arr[cleanIndex]){
-
-            }
-
+            //See below
         }
     }
 
@@ -47,4 +42,3 @@ public class Exercise {
     }
 }
  */
-}
